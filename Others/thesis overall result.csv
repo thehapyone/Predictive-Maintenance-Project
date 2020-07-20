@@ -1,0 +1,21 @@
+Storage_Used (MB),Number_of_Records,Number_of_Features,Method,Storage Saved (%),Performance Improvement (%),Prediction Results (MAE),Prediction Model
+807,166958,447,Original data,0,0,157.67,Random Forest
+158,166958,93,Parallel AE Approach,80.42,-3.50,163.188,Random Forest
+105,166958,80,Combined AE_80,86.99,-6.79, 168.38,Random Forest
+69,166958,50,Combined AE_50,91.44,-7.122470984, 168.90,Random Forest
+57,166958,40,Combined AE_40,92.93,-8.073825078, 170.40,Random Forest
+42,166958,30,Combined AE_30,94.79,-7.788418849, 169.95,Random Forest
+28,166958,20,Combined AE_20,96.53,-8.644637534, 171.30,Random Forest
+15,166958,10,Combined AE_10,98.14,-9.684784677, 172.94,Random Forest
+8,166958,5,Combined AE_5,99,-8.40362783, 170.92,Random Forest
+2,166958,2,Combined AE_2,99.75,-23.55552737, 194.81,Random Forest
+807,166958,447,Original data,0,0,190.051,Artifical Neural Network
+158,166958,93,Parallel AE Approach,80.42,21.68734,148.834,Artifical Neural Network
+105,166958,80,Combined AE_80,86.99,23.02698,146.288,Artifical Neural Network
+69,166958,50,Combined AE_50,91.44,21.60799,148.985,Artifical Neural Network
+57,166958,40,Combined AE_40,92.93,21.23009,149.703,Artifical Neural Network
+42,166958,30,Combined AE_30,94.79,18.80301,154.316,Artifical Neural Network
+28,166958,20,Combined AE_20,96.53,16.90494,157.923,Artifical Neural Network
+15,166958,10,Combined AE_10,98.14,13.73052,163.956,Artifical Neural Network
+8,166958,5,Combined AE_5,99,12.16305,166.935,Artifical Neural Network
+2,166958,2,Combined AE_2,99.75,6.3124634,178.054,Artifical Neural Network
